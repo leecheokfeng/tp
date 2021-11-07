@@ -81,6 +81,8 @@ The dish component consists of the `Dish`, `Menu`, `DishParser`, and `DishUI` cl
 
 ### 1.4 Ingredient Component
 ![ingredient](Diagrams/ingredient/Ingredient.png)
+
+
 The ingredient component consists of the `Ingredient`, `IngredientList`, `IngredientParser`, and `IngredientUI` classes.  
 
 * `Ingredient` stores the name and quantity of a particular ingredient used by the restaurant, as well as methods to 
